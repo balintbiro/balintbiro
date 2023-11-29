@@ -13,10 +13,10 @@ Skills:
 
 
 My projects
-            [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/balintbiro)
+           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/balintbiro)
 
 If you want to connect
                       [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/biró-bálint-923b25168//) 
 
 My publications
-                [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=fHAcXy8AAAAJ&hl=hu&oi=ao)
+               [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?user=fHAcXy8AAAAJ&hl=hu&oi=ao)
