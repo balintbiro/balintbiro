@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Bálint
-I am from Hungary and I work as a data scientist for _VOIS (Budapest) and as an early stage researcher for the Hungarian University of Agriculture and Life Sciences (Gödöllő). This page contains only the projects for my academic position.
+I am from Hungary and I work as a data scientist for _VOIS (Budapest) and as an early stage researcher for the Hungarian University of Agriculture and Life Sciences (Gödöllő). This page contains only the projects related to my academic position.
 
 Skills:
-- Programming languages: Python / R / SQL / BASH
+- Programming languages: Python / R / SQL / BASH / LaTeX
 - Cloud computing platforms: AWS / GCP
-- Databases: NCBI / Ensembl / UniProt / PDB/  Ignite / HGI
+- Databases: NCBI / Ensembl / UniProt / PDB /  Ignite / HGI
 
 
 🔭 I’m currently working on:
